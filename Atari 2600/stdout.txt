@@ -1,0 +1,13 @@
+Base directory:       'C:\Users\Amin\AppData\Roaming\Stella\'
+Configuration file:   'C:\Users\Amin\AppData\Roaming\Stella\stella.ini'
+User game properties: 'C:\Users\Amin\AppData\Roaming\Stella\stella.pro'
+
+Video rendering: Software mode
+  Color: 32 bit
+  Rmask = ff0000, Rshift = 16, Rloss =  0
+  Gmask = ff00, Gshift =  8, Gloss =  0
+  Bmask =   ff, Bshift =  0, Bloss =  0
+
+Joystick devices found:
+No joysticks present.
+
